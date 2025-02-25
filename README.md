@@ -5,15 +5,17 @@ TOOLS
 PowerBI, PowerQuery and Microsoft Word  
 
 DATA MODELLING  
-![image](https://github.com/user-attachments/assets/848d739f-b520-46e9-aa28-2dba3f40f150)
+![image](https://github.com/user-attachments/assets/feeb199e-297f-4bc9-ae7a-41953c78eb93)
+
 
 DASHBOARD  
 Sale performance dashboard
 ![image](https://github.com/user-attachments/assets/47327c2c-fb4d-4450-aefe-f5c6a866f502)
 
 Category analysis  
-![image](https://github.com/user-attachments/assets/98b06abb-8573-4001-8782-2cb2b2f1be8a)
+![image](https://github.com/user-attachments/assets/e1022d1f-b3b9-4fe1-aab7-1c8459b6f46e)
 
 Ingredient analysis
-![image](https://github.com/user-attachments/assets/7940efe7-dc8d-43e9-8a7f-8ef4c58c9c47)
+![image](https://github.com/user-attachments/assets/90469f70-241f-4ff5-a0ba-049ed0a39a2b)
+
 
